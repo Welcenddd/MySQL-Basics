@@ -4,7 +4,7 @@
 
 ### 几个术语
 
-![image-20210107191524508](day01.assets/image-20210107191524508.png)
+<img src="day01.assets/image-20210107191524508.png" alt="image-20210107191524508" style="zoom: 67%;" />
 
 ### 常见的数据库管理系统：
 
@@ -12,27 +12,27 @@ MySQL、Oracle、DB2、SQLServer
 
 ### SQL的优点
 
-![image-20210107191215457](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210107191215457.png)
+<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210107191215457.png" alt="image-20210107191215457" style="zoom: 67%;" />
 
 
 
 ## 2.数据库存储数据的特点
 
-![image-20210107191825314](day01.assets/image-20210107191825314.png)
+<img src="day01.assets/image-20210107191825314.png" alt="image-20210107191825314" style="zoom:67%;" />
 
 ## 3.MySQL软件介绍
 
-![image-20210107192052602](day01.assets/image-20210107192052602.png)
+<img src="day01.assets/image-20210107192052602.png" alt="image-20210107192052602" style="zoom:50%;" />
 
 ### 4.DBMS的分类
 
-![image-20210107192204377](day01.assets/image-20210107192204377.png)
+<img src="day01.assets/image-20210107192204377.png" alt="image-20210107192204377" style="zoom:50%;" />
 
 第二类基于C/S架构，C指client，S指Server，一般来说服务端比较重要，所以说一般说安装数据库是指安装服务端。
 
 ### 5.MySQL的版本
 
-![image-20210107192413513](day01.assets/image-20210107192413513.png)
+<img src="day01.assets/image-20210107192413513.png" alt="image-20210107192413513" style="zoom:50%;" />
 
 ### 6.MySQL软件的安装
 
