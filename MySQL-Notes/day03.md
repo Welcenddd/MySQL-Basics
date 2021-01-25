@@ -2,11 +2,11 @@
 
 ### DML语言——数据操作语言★ 
 
-插入：insert
+==插入：insert==
 
-修改：update
+==修改：update==
 
-删除：delete
+==删除：delete==
 
 ### 一、插入语句
 
@@ -111,7 +111,7 @@ delete from 表名 【where 筛选条件】【limit 条目数】
 
 ![image-20210110210733707](day03.assets/image-20210110210733707.png)
 
-##### 两种方式的区别（面试题）
+##### ==两种方式的区别（面试题）==
 
 ![image-20210110210856038](day03.assets/image-20210110210856038.png)
 
@@ -355,7 +355,7 @@ alter table 表名 add column 列名 类型 【first|after 字段名】;
 
 ![image-20210111100834239](day03.assets/image-20210111100834239.png)
 
-#### 主键与唯一的比较：
+#### ==主键与唯一的比较：==
 
 ![image-20210111103056810](day03.assets/image-20210111103056810.png)
 
